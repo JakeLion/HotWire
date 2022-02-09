@@ -1,5 +1,8 @@
 # HotWire
 HotWire is the free, lightweight, open-source, private instant messenger
+
+*Note: Official test server online at jakesystems.us:5250
+
 ## Client
 Basic client for sending and receiving messages to and from a server
 
